@@ -1,0 +1,7 @@
+# Build output
+out/
+*.class
+
+# Optional local assets (not distributed, see README)
+*.wav
+[1-5].png
